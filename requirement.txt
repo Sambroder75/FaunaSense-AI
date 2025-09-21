@@ -1,0 +1,6 @@
+torch
+torchvision
+flask==2.0.1
+werkzeug
+pillow
+numpy
